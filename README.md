@@ -6,3 +6,5 @@ Projects With HTML5 & CSS
 2: Social links profile: https://projects-in-html5css.netlify.app/Social-links-profile.html
 
 3: Responsive Table: https://projects-in-html5css.netlify.app/responsive-table
+
+4: Blog Preview Card: https://projects-in-html5css.netlify.app/blog-preview-card
