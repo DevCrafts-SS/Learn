@@ -41,7 +41,7 @@
       border-radius: 5px;
       border: none;
     }
-    .article {
+    .container img {
       width: 100%;
       height: fit-content;
       border-radius: 10px;
@@ -72,17 +72,17 @@
 
 <body>
   <div class="container">
-    <img class="article" src="./images/illustration-article.svg" />
+    <img role='Article Image' alt="article" src="./images/illustration-article.svg" />
 
     <button class="button">Learning</button>
 
-    <p>Published 21 Dec 2023</p>
+    <p role="date">Published 21 Dec 2023</p>
 
-    <p class="title">HTML & CSS foundations</p>
+    <p role="title" class="title">HTML  &amp; CSS foundations</p>
 
-    <p class="content">These languages are the backbone of every website, defining structure, content, and presentation.</p>
+    <p role="paragrapha" class="content">These languages are the backbone of every website, defining structure, content, and presentation.</p>
 
-    <div class="namecard">
+    <div role="profile" class="namecard">
       <img src="./images/image-avatar.webp" alt="Profile">
       <p>Greg Hooper</p>
     </div>
