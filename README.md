@@ -10,3 +10,6 @@ Projects With HTML5 & CSS
 4: Blog Preview Card: https://projects-in-html5css.netlify.app/blog-preview-card
 
 5. Responsive Website: https://projects-in-html5css.netlify.app/codewell/1/
+
+**********************************************************************************
+Dynamic Website: https://projects-in-html5css.netlify.app/dynamic%20website/
