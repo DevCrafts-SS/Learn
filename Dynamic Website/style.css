@@ -39,7 +39,7 @@ main {
 .container {
 	position: relative;
 	width: 320px;
-	height: 320px;
+/* 	height: 320px; */
 	padding: 17px;
 	background-color: #241b35;
 	border-radius: 15px;
