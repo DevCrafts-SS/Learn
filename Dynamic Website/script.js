@@ -60,12 +60,6 @@ let obj = [
         img: './lazyload.png'
     },
     {
-        Category: "Dinner",
-        title: "Beef Stir-Fry",
-        content: "Tender slices of beef stir-fried with crisp broccoli florets and a flavorful sauce. Serve over rice or noodles for a delicious dinner.",
-        img: './lazyload.png'
-    },
-    {
         Category: "Snacks",
         title: "Homemade Granola",
         content: "Chewy granola bars packed with oats, nuts, seeds, and dried fruits. A perfect on-the-go snack for any time of day.",
