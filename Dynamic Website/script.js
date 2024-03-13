@@ -87,7 +87,7 @@ document.getElementById('BreakFast').addEventListener('click', function (){
             container.classList.add('container');
             container.innerHTML = `
         <span>${item.Category}</span>
-        <img src=""/>
+        <img src="./lazyload.png"/>
         <h1 class="title">${item.title}</h1>
         <p>${item.content}</p>`;
             products.appendChild(container);
