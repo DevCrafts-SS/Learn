@@ -1,11 +1,11 @@
 import './Css/footer.css';
 
-function footer(){
-	return(
-		<footer>
-			<p>Powered by <a href="#">yourdomain.com</a></p>
-		</footer>
-	);
+function Footer() {
+  return (
+    <footer>
+      <p>Powered by <a href="https://example.com">yourdomain.com</a></p>
+    </footer>
+  );
 }
 
-export default footer;
+export default Footer;
