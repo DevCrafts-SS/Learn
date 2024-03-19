@@ -2,7 +2,7 @@ import './Css/section4.css';
 
 function Section4() {
 	return (
-		<section className='section4'>
+		<section id='contact' className='section4'>
 			<h1>Contact</h1>
 			<p>We offer full-service catering for any event, large or small. We understand your needs and we will cater the food to satisfy the biggerst criteria of them all, both look and taste. Do not hesitate to contact us.</p>
 			<h2>Catering Service, 42nd Living St, 43043 New York, NY</h2>
