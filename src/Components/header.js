@@ -3,7 +3,7 @@ import './Css/header.css';
 function Header() {
 	return(
 	<nav>
-		<a href="#">Website Name</a>
+		<a href="/">Website Name</a>
 		<span>
 			<li><a href='#about'>About</a></li>
 			<li><a href='#menu'>Menu</a></li>
