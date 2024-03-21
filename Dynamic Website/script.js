@@ -57,13 +57,13 @@ let obj = [
         Category: "Lunch",
         title: "Quinoa Salad",
         content: "Nutty quinoa tossed with chopped vegetables, feta cheese, and a zesty lemon vinaigrette. A satisfying and protein-packed lunch.",
-        img: './lazyload.png'
+        img: 'https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2019-11-recipe-mediterranean-quinoa-salad%2F2019-10-21_Kitchn89095_Mediteranean-Quinoa-Salad'
     },
     {
         Category: "Snacks",
         title: "Homemade Granola",
         content: "Chewy granola bars packed with oats, nuts, seeds, and dried fruits. A perfect on-the-go snack for any time of day.",
-        img: './lazyload.png'
+        img: 'https://www.girlgonegourmet.com/wp-content/uploads/2023/09/Homemade-Granola-square-featured.jpg'
     }
 ];
 
